@@ -3,7 +3,7 @@ input[type="button"] {
   /* width: 20%; */
   /* font-size: 40px; */
   font-weight: 500;
-  color: purple;
+  color: white;
   margin: 2%;
   border-radius: 4px;
 }
@@ -16,7 +16,7 @@ input[type="text"] {
 }
 
 body {
-  background-image: url("https://github.com/rachanahm/app2/blob/e0562d3ae1a618d4f06d8ea3ba5f49c4aa1a1b08/public/img/Water-Wallpaper-HD-Backgrounds-Pictures-Images.jpg.crdownload");
+  background-image: url("https://github.com/rachanahm/app2/blob/master/public/img/th.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
